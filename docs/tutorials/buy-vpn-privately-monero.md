@@ -50,6 +50,10 @@ These VPNs are not recommended by privacy experts at [Privacy Guides](https://pr
 
 [Astrill VPN](https://www.astrill.com/) accepts Monero (XMR). Their service costs between $12.50 and $30.00 per month (depending on duration). Add-ons are available with additional features.
 
+### Party VPN
+
+[Party VPN](https://partyvpn.com) accepts Monero (XMR). Their service costs $0.03 per hour when connected, and there is no charge when idle. A REST API is available.
+
 ## Why should I buy a VPN with Monero (XMR)?
 
 VPNs are digital products, and it's simplest to buy digital products using a digital payment method.
